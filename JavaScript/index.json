@@ -1,0 +1,84 @@
+[
+    {
+        "usuario": {
+            "nombre": "Lina Martinez",
+            "imagen": "img/usuario.png",
+            "horaPublicacion": "Hace una hora"
+        },
+        "post": {
+            "contenido": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque nemo veniam sint dolore totam, tempore voluptas sed quaerat corporis velit pariatur. Similique repellat amet sunt cupiditate necessitatibus id excepturi soluta?",
+            "imagen": "img/post.png"
+        },
+        "acciones": {
+            "likes": 247,
+            "comentarios": 57
+        },
+        "recomendaciones": {
+            "usuarios": [
+                { "imagen": "imagen_usuario_1.jpg", "alt": "Usuario 1" },
+                { "imagen": "imagen_usuario_2.jpg", "alt": "Usuario 2" },
+                { "imagen": "imagen_usuario_3.jpg", "alt": "Usuario 3" }
+            ],
+            "contadorAdicional": 57
+        },
+        "comentarios": {
+            "total": 57
+        }
+    },
+    {
+        "usuario": {
+            "nombre": "Oscar Lucas",
+            "imagen": "img/usuario3.png",
+            "horaPublicacion": "Hace 3 horas"
+        },
+        "post": {
+            "contenido": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque nemo veniam sint dolore totam, tempore voluptas sed quaerat corporis velit pariatur. Similique repellat amet sunt cupiditate necessitatibus id excepturi soluta?",
+            "imagen": "img/post3.png"
+        },
+        "acciones": {
+            "likes": 180,
+            "comentarios": 32
+        },
+        "recomendaciones": {
+            "usuarios": [
+                { "imagen": "imagen_usuario_4.jpg", "alt": "Usuario 4" },
+                { "imagen": "imagen_usuario_5.jpg", "alt": "Usuario 5" },
+                { "imagen": "imagen_usuario_6.jpg", "alt": "Usuario 6" }
+            ],
+            "contadorAdicional": 42
+        },
+        "comentarios": {
+            "total": 32
+        }
+    },
+    {
+        "usuario": {
+            "nombre": "María López",
+            "imagen": "img/usuario4.png",
+            "horaPublicacion": "Hace 1 hora y 30 minutos"
+        },
+        "post": {
+            "contenido": "¡Buenos días! ¿Alguien quiere unirse a mí para tomar un café? ☕️",
+            "imagen": "img/post4.png"
+        },
+        "acciones": {
+            "likes": 95,
+            "comentarios": 20
+        },
+        "recomendaciones": {
+            "usuarios": [
+                { "imagen": "imagen_usuario_7.jpg", "alt": "Usuario 7" },
+                { "imagen": "imagen_usuario_8.jpg", "alt": "Usuario 8" },
+                { "imagen": "imagen_usuario_9.jpg", "alt": "Usuario 9" }
+            ],
+            "contadorAdicional": 20
+        },
+        "comentarios": {
+            "total": 20
+        }
+    }
+]
+
+
+
+
